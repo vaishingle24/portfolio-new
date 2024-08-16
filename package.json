@@ -1,7 +1,7 @@
 {
   "name": "vaishnavi-ingle-portfolio",
   "version": "0.1.0",
-  "homepage": "https://vaishingle24.github.io",
+  "homepage": "https://vaishingle24.github.io/portfolio-new",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
